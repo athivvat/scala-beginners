@@ -24,7 +24,7 @@ object ValuesObjectsTypes extends App {
 
   // Variables
   // VARs are mutable
-  var aVariable: int = 4
+  var aVariable: Int = 4
 
   aVariable = 5 // side effects
 }
